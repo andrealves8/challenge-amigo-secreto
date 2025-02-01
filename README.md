@@ -9,7 +9,7 @@
 - [Status do Projeto](#status-do-Projeto)
 - [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 - [Acesso ao Projeto](#acesso-ao-projeto)
-- [Desenvolvedoras do Projeto](#desenvolvedores)
+- [Desenvolvedores do Projeto](#desenvolvedores)
 - [Conclusão](#conclusão)
 
 ## Descrição do projeto 
