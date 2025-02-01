@@ -9,7 +9,7 @@
 - [Status do Projeto](#status-do-Projeto)
 - [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 - [Acesso ao Projeto](#acesso-ao-projeto)
-- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+- [Desenvolvedoras do Projeto](#desenvolvedores)
 - [Conclusão](#conclusão)
 
 ## Descrição do projeto 
@@ -60,7 +60,7 @@ O Desafio Amigo Secreto representa um passo essencial no aprendizado e evoluçã
 ## Acesso ao projeto
 <p>Você pode <a href="https://github.com/andrealves8/challenge-amigo-secreto">acessar o código fonte do projeto</a> ou <a href="https://github.com/andrealves8/challenge-amigo-secreto/archive/refs/heads/master.zip">baixá-lo.</a></p>
 
-## Pessoas Desenvolvedores
+## Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/73435241?v=4" width=115><br><sub>André Alves</sub>](https://github.com/andrealves8) |  [<img src="https://avatars.githubusercontent.com/u/110470063?v=4" width=115><br><sub>Jose Gonzalez</sub>](https://github.com/joseLatam)  |
 | :---: | :---: 
